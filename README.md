@@ -6,5 +6,5 @@
 
 
 ```
-{unicode is good and not harmful}
+\{$&#x5C;unicode}
 ```
